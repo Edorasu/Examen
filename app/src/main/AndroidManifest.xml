@@ -38,9 +38,11 @@
 
         <activity
             android:name="com.cdp.TL01E171.EditarActivity"
+
             android:parentActivityName="com.cdp.TL01E171.MainActivity">
 
             <meta-data
+
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.cdp.TL01E171.MainActivity" />
         </activity>
