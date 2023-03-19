@@ -119,6 +119,7 @@ public class VerActivity extends AppCompatActivity {
             }
         });
 
+        //Este es el codigo de llamada ..Selene
         fabCall.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
